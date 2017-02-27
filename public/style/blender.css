@@ -1,0 +1,13 @@
+img {
+  width: 500px;
+}
+
+.unblended {
+  flex-wrap: row;
+}
+
+.unblended-img {
+  width: 120px;
+  height: 500px;
+  background-size: 20%;
+}

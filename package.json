@@ -4,6 +4,7 @@
   "description": "Web tool that allows teachers to easily create visuals that help children blend words when learning to read. ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
